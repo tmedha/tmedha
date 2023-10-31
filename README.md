@@ -1,7 +1,5 @@
-### 
-```python
+###python
 print('Hello World, Medha here!') 👋
-```
 
 <!--
 **tmedha/tmedha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
