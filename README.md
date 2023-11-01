@@ -1,6 +1,6 @@
 ###
 ```python
-print('Hello World, Medha here!') 👋
+print('Hello World, Medha here!') #👋
 ```
 
 <!--
